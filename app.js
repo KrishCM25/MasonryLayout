@@ -19,4 +19,4 @@ const masonryLayout = (containerElem, itemsElems, columns) => {
   }
   
   masonryLayout(document.getElementById('gallery'),
-                document.querySelectorAll('.gallery-item'), 3) 
+                document.querySelectorAll('.gallery-item'), 4) 
